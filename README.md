@@ -1,3 +1,6 @@
+:warning: | To be deprecated on March 31st 2021! The current tutorials repository is replaced by “How to Guides” available from [Wirepas Developer Portal](https://developer.wirepas.com/support/solutions/77000203908). Please note that this existing tutorials repository will be removed on March 31st 2021.
+:---: | :---
+
 # Tutorials
 
 [![Build Status](https://travis-ci.com/wirepas/tutorials.svg?branch=master)](https://travis-ci.com/wirepas/tutorials)
